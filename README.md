@@ -1,3 +1,2 @@
-# Coala_homework
+# coala_study
 
-코알라 유니브 과제
